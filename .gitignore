@@ -1,3 +1,11 @@
+# Folders
+Intermediate/*
+Saved/*
+Platforms/*
+.vsconfig
+DerivedDataCache/*
+
+
 # Prerequisites
 *.d
 
