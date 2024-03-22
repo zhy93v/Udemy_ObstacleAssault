@@ -1,14 +1,3 @@
-{
-	"Targets": [
-		{
-			"Name": "ObstacleAssault",
-			"Path": "C:\\Users\\zhy93\\OneDrive\\Desktop\\UE5\\Udemy_ObstacleAssault\\ObstacleAssault\\Source\\ObstacleAssault.Target.cs",
-			"Type": "Game"
-		},
-		{
-			"Name": "ObstacleAssaultEditor",
-			"Path": "C:\\Users\\zhy93\\OneDrive\\Desktop\\UE5\\Udemy_ObstacleAssault\\ObstacleAssault\\Source\\ObstacleAssaultEditor.Target.cs",
-			"Type": "Editor"
-		}
-	]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b60041f9d991caf4220899a3befd222669a499339087ef33379e9c48e5701bf7
+size 420
